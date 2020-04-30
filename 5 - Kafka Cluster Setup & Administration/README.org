@@ -1,0 +1,6 @@
+#+TITLE: Setup Kafka
+#+AUTHOR: Chetan Koneru
+
+* Setup in kafka one machine
+
+[[file:README.org_imgs/20200328_192543_hS5isR.png]]
