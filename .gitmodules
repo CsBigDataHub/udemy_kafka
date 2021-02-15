@@ -1,5 +1,5 @@
 [submodule "PacktPublishing-kafka-streams"]
-	path = 1 - Kafka Streams for Data Processing/Apache-Kafka-Series---Kafka-Streams-for-Data-Processing
+	path = Apache-Kafka-Series---Kafka-Streams-for-Data-Processing
 	url = https://github.com/CsBigDataHub/Apache-Kafka-Series---Kafka-Streams-for-Data-Processing.git
 [submodule "kafka-streams-course"]
 	path = kafka-streams-course
